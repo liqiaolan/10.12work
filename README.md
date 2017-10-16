@@ -1,1 +1,1 @@
-http://bestpets.duapp.com/best%20pets/index.php
+http://bestpets.duapp.com/bestpets/index.php
